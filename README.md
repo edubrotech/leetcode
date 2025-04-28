@@ -22,20 +22,6 @@ After working on your solution, commit and push it to GitHub.
 ## 📘Organizing MySQL Solutions in GitHub
 Create Subfolders for Each Problem: Inside your repository, you can create subfolders for each MySQL problem or category of problems (e.g., Basic Queries, Joins, Window Functions).
 
-Example structure:
-LeetCode-MySQL-Solutions/
-├── README.md
-├── Basic-Queries/
-│   ├── Problem1.md
-│   └── Problem2.md
-├── Joins/
-│   ├── Problem1.md
-│   └── Problem2.md
-└── Window-Functions/
-    ├── Problem1.md
-    └── Problem2.md
-
- 
 ### Folder Breakdown:
 
 1. **Basic-Queries**: Contains solutions to simple SQL queries like selecting data, filtering, sorting, and basic aggregation.
