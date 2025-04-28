@@ -45,7 +45,8 @@ Output:
 Explanation: Only products 1 and 3 are both low fat and recyclable.
 
 
+/// SQL query
 
 # Write your MySQL query statement below
-# beacuse of low_fats and recyclable value is Y
+# beacuse of 1 and 3 are both low fat and recyclable.
 select product_id form Products where low_fats='Y' and recyclable='Y''
