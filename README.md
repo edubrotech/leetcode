@@ -35,15 +35,30 @@ LeetCode-MySQL-Solutions/
     ├── Problem1.md
     └── Problem2.md
 
-Document Each Solution: For each problem, create a .md (Markdown) file that explains:
+ 
+### Folder Breakdown:
 
-Problem description.
+1. **Basic-Queries**: Contains solutions to simple SQL queries like selecting data, filtering, sorting, and basic aggregation.
+2. **Joins**: Includes SQL problems that require using various types of joins (INNER, LEFT, RIGHT, etc.).
+3. **Window-Functions**: Solutions to problems that involve window functions (ROW_NUMBER, RANK, etc.).
 
-Approach to solving it.
+## 📄 Documenting Each Solution
 
-Final SQL query.
+Each problem is documented in a `.md` (Markdown) file. These files provide a detailed explanation of the problem and the approach used to solve it. Below is the structure used to document each problem:
 
-Explanation of the query.
+### Example Problem Documentation Structure:
+
+#### **Problem Title**
+   - **Problem Description**: A brief explanation of the problem statement and requirements.
+   - **Approach**: Explanation of the approach used to solve the problem. Mention any key strategies like subqueries, joins, aggregation, etc.
+   - **SQL Query**: The final MySQL query solution to the problem.
+   - **Explanation of the Query**: A detailed breakdown of how the query works, including any specific clauses and why they are used.
+
+---
+
+## 💡 Contributing
+
+Feel free to contribute by forking the repository and submitting a pull request with your own solutions or improvements to existing problems. Please make sure to follow the structure and add clear explanations for your solutions.
 
 ---
 
