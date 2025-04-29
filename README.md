@@ -7,13 +7,13 @@ This repository contains **SQL 50**. It's an excellent resource for beginners an
 <!-- Add more questions here in similar format -->
 ## 📘 Basic Git Commands for Your Series
 Cloning the Repository: Once the repository is created, you can clone it to your local system:
-git clone https://github.com/your-username/LeetCode-MySQL-Solutions.git
+git clone https://github.com/edubrotech/leetcode.git
 
 Adding New Solutions: After solving a problem, you can add it to the repository using the following commands:
 
-git add .
-git commit -m "Added solution for LeetCode MySQL problem X"
-git push origin main
+<p>git add .</p>
+<p>git commit -m "Added solution for LeetCode MySQL problem X"</p>
+<p>git push origin main</p>
 
 Branching for Different Problems: You can create a new branch for each problem or group of problems:
 git checkout -b solution-for-problem-x
