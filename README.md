@@ -7,7 +7,7 @@ This repository contains **SQL 50**. It's an excellent resource for beginners an
 <!-- Add more questions here in similar format -->
 ## 📘 Basic Git Commands for Your Series
 Cloning the Repository: Once the repository is created, you can clone it to your local system:
-git clone https://github.com/your-username/LeetCode-MySQL-Solutions.git
+git clone https://github.com/edubrotech/leetcode.git
 
 Adding New Solutions: After solving a problem, you can add it to the repository using the following commands:
 
