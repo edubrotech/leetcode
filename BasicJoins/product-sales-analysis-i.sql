@@ -72,3 +72,4 @@ From sale_id = 7, we can conclude that Apple was sold for 9000 in the year 2011.
 
 /// SQL query
 # Write your MySQL query statement below
+select p.product_name , s.year , s.price  from Sales as s inner join Product  as p on p.product_id =s.product_id 
