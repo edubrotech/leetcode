@@ -48,3 +48,6 @@ Output:
 
 /// SQL query
 # Write your MySQL query statement below
+
+
+select name,population,area from World where population >'3000000' and area >'25000000';
