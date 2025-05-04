@@ -50,4 +50,4 @@ Output:
 # Write your MySQL query statement below
 
 
-select name,population,area from World where population >'3000000' and area >'25000000';
+select name,population,area from World where population >='25000000' or area >='3000000 ';
