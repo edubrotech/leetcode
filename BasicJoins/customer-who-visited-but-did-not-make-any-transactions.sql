@@ -79,7 +79,8 @@ As we can see, users with IDs 30 and 96 visited the mall one time without making
 /// SQL query
 # Write your MySQL query statement below
 
-select v.customer_id, count(*) as count_no_trans    from Visits as v left join Transactions  as t on v.visit_id  =t.visit_id  WHERE 
+select v.customer_id, count(*) as count_no_trans    
+from Visits as v left join Transactions  as t on v.visit_id  =t.visit_id  WHERE 
     t.visit_id IS NULL
 GROUP BY 
     v.customer_id;
